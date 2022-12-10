@@ -38,3 +38,9 @@ button{
     border-radius: 5rem;
     font-style: italic;
 }
+button:hover{
+    color: black;
+    background-color: aliceblue;
+    transition: 2s;
+}
+
