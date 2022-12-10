@@ -1,8 +1,9 @@
 
 p{
     text-align: center;
-    border: 3px dashed rgb(255, 255, 255);
+    border: 3px dashed rgb(76, 0, 255);
     font-size: 25px;
+    background-color: black;
 }
 .ba{
     margin-bottom: 0;
