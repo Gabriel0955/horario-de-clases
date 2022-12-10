@@ -27,12 +27,12 @@ h2{
     text-align: center;
 }
 .enlace{
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 button{
     height: 55px;
-    width: 200px;
-    font-size: 40px;
+    width: 150px;
+    font-size: 25px;
     background-color: rgb(94, 255, 0);
     color: rgb(255, 6, 6);
     border-radius: 5rem;
