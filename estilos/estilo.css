@@ -22,13 +22,13 @@ h2{
     text-shadow: 1px 2px 5px rgb(0, 255, 42);
 }
 .padre{
+    width: 100%;
     display: flex;
     flex-direction: column;
-    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
-.enlace{
-    margin-bottom: 30px;
-}
+
 button{
     height: 55px;
     width: 155px;
@@ -37,10 +37,14 @@ button{
     color: rgb(255, 6, 6);
     border-radius: 5rem;
     font-style: italic;
+    text-align: center;
+    margin-bottom: 30px;
 }
 button:hover{
     color: black;
     background-color: aliceblue;
-    transition: 2s;
+    transition: 1s;
 }
-
+a{
+    text-decoration: none;
+}
