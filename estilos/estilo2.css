@@ -1,7 +1,7 @@
 
 p{
     text-align: center;
-    border: 3px dashed rgb(255, 0, 0);
+    border: 3px ridge rgb(0, 17, 255);
     font-size: 25px;
     background-color: black;
 }
@@ -13,10 +13,20 @@ p{
 }
 .base{
     margin-top:0 ;
-    border-top: 5px solid rgb(43, 255, 0);
+    border-top: 2px dashed rgb(253, 0, 0);
     color: aliceblue;
     text-shadow: 1px 2px 5px rgb(255, 0, 0);
+    margin-bottom: 0;
+    border-bottom: 0;
 }
 .inicio{
     text-align: center;
+}
+.profe{
+    color: rgb(110, 241, 132);
+    text-shadow: 1px 2px 5px rgb(255, 0, 0);
+    margin-top: 0;
+    font-size: 16px;
+    text-align: end;
+    border-top: 2px dashed rgb(255, 3, 3);
 }
